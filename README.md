@@ -2,7 +2,7 @@
 
 AI usage and reset times in your Mac’s menu bar.
 
-Connect **Codex, Cursor, Claude Code, Antigravity, and GitHub Copilot**. A scrollable overview keeps multiple tools easy to scan, with detailed usage and connection settings one click away.
+Connect **Codex, Cursor, Claude Code, Antigravity, and GitHub Copilot**. Every connected tool gets its own menu bar logo and usage percentage. Pinning keeps a tool first in the scrollable overview and Connections list.
 
 ## Download
 
